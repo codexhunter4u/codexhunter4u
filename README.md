@@ -38,3 +38,4 @@
 ### My work
 - https://mohanjadhav.herokuapp.com/ > Node, Express, MongoDb SHopping admin panel
 - http://asccollegenaldurg.com/ > Php, Mysql web app
+- https://wandering-dove-stockings.cyclic.app/ > Latest work [MERN Stack Shopping Web app]
